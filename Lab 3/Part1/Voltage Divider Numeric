@@ -12,9 +12,9 @@
 % >> ee001la_Lab3_Part1_voltage_divider_numeric
 
 % ----- Set circuit parameters -------
-VS = 12 ;% voltage source, [V]
-R1 = 4000 ;% resistor, [Ohm]
-R2 = 2000 ;% resistor, [Ohm]
+VS = 10 ;% voltage source, [V]
+R1 = 4700 ;% resistor, [Ohm]
+R2 = 10000 ;% resistor, [Ohm]
 
 % ----- Form matrix A ----------------
 A = [ 0 0 0 1 1 0 ; ...
